@@ -4,7 +4,7 @@
     <property name="created">2018-11-13T13:50:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-13T13:59:28</property>
+    <property name="modified">2019-07-23T11:14:50</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1334,6 +1334,11 @@
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="55a7ff" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
